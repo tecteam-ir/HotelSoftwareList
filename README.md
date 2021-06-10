@@ -5,10 +5,10 @@
 <ul>
       <li>سیستم عامل قابل نصب : Windows | Linux | MacOS | BSD</li>
       <li>زبان برنامه نویسی : PHP | Python | Go | Java</li>
-      <li>بانک اطلاعاتی : MySQL | Radius</li>
+      <li>بانک اطلاعاتی : MySQL | Redis </li>
       <li>تحت وب &#9989;</li>
       <li>وب سرور : Apache | Nginx | IIS</li>
       <li>نسخه موبایل &#9989;</li>
-      <li>ریسپانسیور بودن &#9989;</li>
+      <li>ریسپانسیو بودن &#9989;</li>
       <li></li>
  </ul>
