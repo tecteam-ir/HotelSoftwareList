@@ -5,7 +5,7 @@
 <ul>
       <li>سیستم عامل قابل نصب : Windows | Linux | MacOS | BSD</li>
       <li>زبان برنامه نویسی : PHP | Python | Go | Java</li>
-      <li>بانک اطلاعاتی : MySQL | Radius</ul>
+      <li>بانک اطلاعاتی : MySQL | Radius</li>
       <li>تحت وب &#9989;</li>
       <li>وب سرور : Apache | Nginx | IIS</li>
       <li>نسخه موبایل &#9989;</li>
